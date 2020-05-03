@@ -9,7 +9,9 @@ void main() {
           backgroundColor: Colors.blueGrey[500],
         ),
         body: Center(
-          child: Image(),
+          child: Image(
+            image: AssetImage('images/99745.png'),
+          ),
         ),
       ),
     ),
